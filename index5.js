@@ -1,0 +1,1 @@
+getComputedStyle.apply.bind(0)
